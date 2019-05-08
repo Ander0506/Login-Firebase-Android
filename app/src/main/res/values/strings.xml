@@ -7,4 +7,6 @@
     <string name="welcome_mssg">Welcome Home</string>
     <string name="err_user">Not valid user</string>
     <string name="err_empty">Fields are required</string>
+    <string name="create_new_user">Create New User</string>
+    <string name="register">Register</string>
 </resources>
